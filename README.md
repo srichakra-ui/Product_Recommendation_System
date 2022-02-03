@@ -6,3 +6,6 @@ This Machine learning project is to provide an interface with a Product Recommen
 This dataset was found on Kaggle
 https://www.kaggle.com/datafiniti/consumer-reviews-of-amazon-products
 
+![image](https://user-images.githubusercontent.com/73887085/152300586-0bf1ca6b-43ca-45ad-ad9b-176d9b5983e2.png)
+
+
