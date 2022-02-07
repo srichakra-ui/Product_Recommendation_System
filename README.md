@@ -31,7 +31,7 @@ Dataset Sample :
 
 # Model Building
 
-In this Problem Statement we have used Five differernt models respectively :
+In this Problem Statement we have used Four differernt models respectively :
 
 1. Decision Tree
 2. KNN Classifier
