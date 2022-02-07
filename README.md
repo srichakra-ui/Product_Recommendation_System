@@ -40,8 +40,4 @@ In this Problem Statement we have used Four differernt models respectively :
 
 # Conclusion
 
-Upon evaluating all the models we can conclude the following details i.e.
-
-Accuracy:
-
-As far as the accuracy of the model is concerned Logistic Regression performs better than all the other algorithms.
+Upon evaluating all the models we can conclude that as far as the accuracy of the model is concerned Logistic Regression performs better than all the other algorithms.
